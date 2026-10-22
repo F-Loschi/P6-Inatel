@@ -1,0 +1,3 @@
+- Padrões de como desenvolver código
+- Padrão = Solução que já tenha sido utilizada com sucesso
+- 
